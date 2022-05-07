@@ -1,0 +1,32 @@
+.parent{ position: relative }
+.child {position: absolute;
+        top: 50%;
+        left: 50%;
+         
+          
+        }
+            
+head, body, form, a, input, .parent, .child {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    }
+
+
+
+
+form    {
+        text-align: center;
+
+}
+a   {
+    
+    text-decoration: none;
+    
+   
+        display: inline;
+        
+        color: white;
+        }
+a:link {
+        text-align: right;
+}
