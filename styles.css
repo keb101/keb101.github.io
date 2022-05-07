@@ -1,0 +1,29 @@
+.parent{ position: relative }
+.child {position: absolute;
+        top: 50%;
+        left: 50%;
+         transform: translateY(-50%);
+         transform: translateY(-50%) 
+        }
+            
+body {
+    font-family: Arial;
+    font-size: 12px;
+    text-align: center;
+    }
+form {text-align: center;
+     }   
+a   {
+    text-decoration: none;
+    }
+a:link  {
+        color: white;
+        }
+
+h4  {
+    text-align: right;
+    color: black;
+    }
+input   {
+    text-align: center;
+}
